@@ -1,0 +1,8 @@
+{   
+    "title": "Your exchanger",
+    "input1": "Changing",
+    "input2": "Get",
+    "select": "Select currency",
+    "input1-helper": "Enter how much you want to change",
+    "input2-helper": "Enter how much you want to receive"
+}
